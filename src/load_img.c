@@ -15,7 +15,7 @@
 void	load_images(t_game *game)
 {
 	game->img_wall = mlx_xpm_file_to_image(game->mlx,
-			"assets/wall.xpm", &game->img_w, &game->img_h);
+			"assets/wall1.xpm", &game->img_w, &game->img_h);
 	game->img_floor = mlx_xpm_file_to_image(game->mlx,
 			"assets/floor.xpm", &game->img_w, &game->img_h);
 	game->img_player_up = mlx_xpm_file_to_image(game->mlx,
