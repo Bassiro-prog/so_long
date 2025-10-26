@@ -1,6 +1,6 @@
 # 🧱 so_long
 
-![so_long gameplay](assets/so_long-min.jpg)
+![so_long gameplay](./assets/so_long-min.jpg)
 
 Um pequeno jogo 2D em **C** com **MiniLibX**, feito na **42 School**.  
 O objetivo é simples: coletar todos os itens (`C`) e chegar até a saída (`E`) sem ficar preso!
